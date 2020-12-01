@@ -40,7 +40,7 @@ body {
   letter-spacing: 2px;
   display: inline-block;
   background-color: #333;
-  font-size: 2rem;
+  font-size: 1.5rem;
   border-radius: 10px;
   color: white;
 }
@@ -64,13 +64,13 @@ body {
 }
 
 .welcome {
-  font-size: 3.2rem;
+  font-size: 2.8rem;
   font-weight: 600;
 }
 
 .story-para {
   text-align: center;
-  padding: 3rem 0rem;
+  padding: 1.5rem 0rem;
   font-size: 1.8rem;
 }
 
@@ -81,7 +81,7 @@ body {
 
 .tbody {
   font-weight: 500;
-  font-size: 1.2rem;
+  font-size: 1rem;
 }
 .striped {
   border: 2px solid #ddd;
@@ -163,4 +163,15 @@ body {
 }
 #gap {
   padding-top: 3rem;
+}
+
+.img {
+  height: 500px;
+  background-image: url("./selcouth-privacy-removebg-preview.png") no-repeat
+    center/center cover;
+}
+
+.img {
+  background-image: url("/storybooks-master/public/css/selcouth-privacy-removebg-preview.png");
+  height: 500px;
 }
