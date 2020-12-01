@@ -64,7 +64,7 @@ body {
 }
 
 .welcome {
-  font-size: 3.2rem;
+  font-size: 3rem;
   font-weight: 600;
 }
 
@@ -155,8 +155,12 @@ body {
 }
 
 .stories {
+  font-size: 4rem;
   padding-bottom: 2rem;
 }
 .edit {
   padding-bottom: 2rem;
+}
+#gap {
+  padding-top: 3rem;
 }
